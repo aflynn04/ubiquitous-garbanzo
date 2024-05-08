@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "https://github.com/aflynn04/ubiquitous-garbanzo/blob/a3106e0a268c5211134e9e2451ec29084219625b/dalloway_edited.xml"
+        "https://raw.githubusercontent.com/aflynn04/ubiquitous-garbanzo/main/dalloway_edited.xml"
     ],
     "documents": "//div[@type='divType'or@type='otherDivTypeIfApplicable']",
     "ignoreNamespace": true,
