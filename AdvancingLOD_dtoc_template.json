@@ -1,0 +1,30 @@
+{
+    "inputs": [
+        "https://raw.githubusercontent.com/LEAF-VRE/DToC-sample-collections/main/Advancing%20LOD/islandora%3Ac555afc2-da3c-48b9-8ea8-8ec6dac696f0__CWRC.xml"
+    ],
+    "documents": "//div[@type='chapter'or@type='section']",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "//div[@type='index']",
+    "editionTitle": "Advancing LOD",
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//persName",
+                "label": "People"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "Places"
+            },
+            {
+                "xpath": "//orgName",
+                "label": "Organizations"
+            }
+            ]
+            }
+}
